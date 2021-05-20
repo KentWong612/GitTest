@@ -57,3 +57,6 @@ hr {
   padding: 1rem 2rem;
 }
 
+:root {
+  --animate-delay: 2s;
+}
